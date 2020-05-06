@@ -1,6 +1,6 @@
 {
   "name": "isit5yet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A self contained, dependency free, module to determine if you can start drinking, leave work, etc.",
   "main": "index.js",
   "scripts": {
