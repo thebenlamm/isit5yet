@@ -1,4 +1,3 @@
-exports.isit = function() {
-  const d = new Date();
-  return d.getHours() >= 17;
+module.exports = () => {
+  return (new Date()).getHours() >= 17
 }

@@ -9,5 +9,5 @@ $ npm i --save isit5yet
 ### Usage:
 ```
 const isit5yet = require('isit5yet');
-console.log(isit5yet.isit());
+console.log(isit5yet());
 ```
